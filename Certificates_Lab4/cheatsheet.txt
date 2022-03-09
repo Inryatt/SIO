@@ -1,0 +1,1 @@
+openssl x509 -in <filecert> -inform PEM -outform DER -out <fileoutputname>
